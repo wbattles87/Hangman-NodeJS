@@ -1,0 +1,22 @@
+{
+ "name": "Node-Hangman",
+ "version": "1.0.0",
+ "description": "A Node.js Hangman Game",
+ "main": "main.js",
+ "scripts": {
+  "test": "echo \"Error: no test specified\" && exit 1"
+ },
+ "repository": {
+  "type": "",
+  "url": ""
+ },
+ "author": "",
+ "license": "ISC",
+ "bugs": {
+  "url": ""
+ },
+ "homepage": "",
+ "dependencies": {
+  "inquirer": "^4.0.2"
+ }
+}
