@@ -10,10 +10,10 @@ is where my current word bank is hidden.  The letter.js file is where the word b
 Below are two screen shots showing the working node js program in action.
 
 1) First Portion of the working app.
-![alt text](images/pic1.png = 250x250)
+![](images/pic1.png = 250x250)
 
 2) Second Pic of the working program
 
-![alt text](images/pic2.png = 250x250)
+![](images/pic2.png = 250x250)
 
 
